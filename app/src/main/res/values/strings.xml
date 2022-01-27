@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">receiverApp</string>
+    <string name="username">Your username is %s</string>
+    <string name="age">Your age is %s</string>
+</resources>
